@@ -1,5 +1,4 @@
-Developed an AI model for tongue image analysis using  deep learning techniques (CNN)
-
+### Md Ayyan - Tongue diagnosis Project 
 "I developed a Convolutional Neural Network (CNN) model to classify tongue images based on principles from Traditional Chinese Medicine (TCM) and Ayurveda.”
 
 "Tongue diagnosis is very fascinating and traditional method used in TCM and Ayurveda to assess health by examining the tongue's appearance . Tongue is  an indicator of our body   that can reveal imbalances like excess heat, stress, sugr or deficiencies in vitamins. However, manual assessment can be subjective and time-consuming.”
